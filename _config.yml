@@ -1,7 +1,7 @@
 name: fkingtest
 favicon: null
-layout_spectrum: 0.5714654598850757
-typography_spectrum: 0.5687422568444163
+layout_spectrum: 1
+typography_spectrum: 0.15955
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5546508147381246
-  lightness: 0.3467557623516768
+    - '#fefefe'
+    - '#614f5f'
+    - '#cfcfd1'
+    - '#29343c'
+    - '#dc8471'
+  brandStrength: 0.75
+  lightness: 0.3125
   saturation: 0.8878252552822232
-  rhythmicContrast: 0.44280973309651017
+  rhythmicContrast: 0.75
 purpose: []
